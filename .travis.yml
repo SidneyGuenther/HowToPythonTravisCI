@@ -9,4 +9,4 @@ install:
   - pip install PySide
 # command to run tests
 script:
-  - mighty_test.py
+  - mighty_test
