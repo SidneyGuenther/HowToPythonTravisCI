@@ -1,6 +1,6 @@
 language: python
 os:
-  - windows
+  - osx
 python:
   - "2.7"
 # command to install dependencies
