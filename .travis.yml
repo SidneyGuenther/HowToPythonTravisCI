@@ -8,5 +8,4 @@ python:
 install:
   - pip install PySide
 # command to run tests
-script:
-  - mighty_test
+script: python mighty_test.py
