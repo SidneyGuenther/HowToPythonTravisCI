@@ -1,9 +1,9 @@
 import sys
 import time
 
-from lib.Qt.QtWidgets import *
-from lib.Qt.QtGui import *
-from lib.Qt.QtCore import *
+from mighty.lib.Qt.QtWidgets import *
+from mighty.lib.Qt.QtGui import *
+from mighty.lib.Qt.QtCore import *
 
 MODE = 'DESKTOP'
 
