@@ -2,10 +2,10 @@ import os
 import sys
 import unittest
 
-from mighty.lib.Qt.QtWidgets import *
-from mighty.lib.Qt.QtGui import *
-from mighty.lib.Qt.QtCore import *
-from mighty.lib.Qt.QtTest import QTest
+from Qt.QtWidgets import *
+from Qt.QtGui import *
+from Qt.QtCore import *
+from Qt.QtTest import QTest
 
 import mighty
 
