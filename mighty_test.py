@@ -2,10 +2,9 @@ import os
 import sys
 import unittest
 
-from Qt.QtWidgets import *
-from Qt.QtGui import *
-from Qt.QtCore import *
-from Qt.QtTest import QTest
+from PySide.QtGui import *
+from PySide.QtCore import *
+from PySide.QtTest import QTest
 
 import mighty
 

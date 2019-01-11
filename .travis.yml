@@ -7,6 +7,5 @@ python:
 # command to install dependencies
 install:
   - pip install PySide
-  - pip install Qt.py
 # command to run tests
 script: python mighty_test.py

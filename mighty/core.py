@@ -1,9 +1,8 @@
 import sys
 import time
 
-from Qt.QtWidgets import *
-from Qt.QtGui import *
-from Qt.QtCore import *
+from PySide.QtGui import *
+from PySide.QtCore import *
 
 MODE = 'DESKTOP'
 
